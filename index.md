@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+# Aadiv's First CS193 Homework
+- I like how engaging the CS193 classes are.
+- I like how useful the CS193 content is.
+- I like my fellow classmates taking CS193.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
